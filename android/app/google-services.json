@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872039096321",
+    "project_id": "react-native-login-790bf",
+    "storage_bucket": "react-native-login-790bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872039096321:android:909cb32a546be76f8ce000",
+        "android_client_info": {
+          "package_name": "com.applogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLWNzRZbRFnGPGItbR54nxpS9nWcb-AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
